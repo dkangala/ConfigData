@@ -1,0 +1,10 @@
+# ymlfile
+---
+spring:
+    profiles: usa
+    Environment: ["USA"]
+    
+---
+spring:
+    profiles: india
+    Environment: ["INDIA"]
